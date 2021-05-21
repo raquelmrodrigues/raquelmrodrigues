@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raquelmrodrigues
-- 👀 I’m interested in machine learning, Backend development, cloud computing
+- 👀 I’m interested in machine learning, backend development, cloud computing
 - 🌱 I’m currently learning Java, C# and Javascript
 
 
