@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raquel Rodrigues
 - 👀 I’m interested in machine learning, backend development, cloud computing
-- 🌱 I’m currently learning Java, C# and Javascript
+- 🌱 I’m currently learning Java and C#
 
 
 <!---
